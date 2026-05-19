@@ -1,0 +1,15 @@
+Ideas txt Funciones principales:
+- Subir y descargar apuntes
+- Foro de preguntas
+- Calendario académico
+- Notificaciones de tareas
+
+Ventajas:
+- Acceso rápido a información
+- Facilita el aprendizaje colaborativo
+- Organización académica
+
+Mejoras futuras:
+- App móvil
+- Inteligencia artificial para recomendaciones
+- Chat entre estudiantes
